@@ -1,0 +1,19 @@
+Detyra2: Linku--https://sepolia.etherscan.io/address/0x4cbB445d7e27E3419cA9f23d25317AA7c97B58d6#code
+
+Detyra3: Linku--https://sepolia.etherscan.io/address/0xa95838E0F85533e89eFb17c19c0aeEe544c2B67E#code
+
+Detyra4: Linku--https://sepolia.etherscan.io/address/0x9A5D54b1b594B9e0E3956655bAdBf2b4A509503B#code
+
+Detyra5: Linku--https://sepolia.etherscan.io/address/0x35Ebc5e97D7cfa522b34419f3A9B6a081AA6d320#code
+
+Detyra6: Linku--https://sepolia.etherscan.io/address/0x7627fB1A4b4B6069a23147F2a0A284c2737d29f8#code
+
+Detyra7: Linku--https://sepolia.etherscan.io/address/0xDE09B7c669b29eF8Cb5CeDEa468F41Ab5D1D0B6f#code
+
+Detyra7.1: Linku--https://sepolia.etherscan.io/address/0x552e4629a0F83eE7E6596F5495cD276Eb90A123c#code
+
+Detyra8: Linku--https://sepolia.etherscan.io/address/0x3c9E5867085B906e45bf74cab2CAFb69839f5Ed9#code
+
+Detyra9: Linku--https://sepolia.etherscan.io/address/0x0207cD5c3B4651111a34A78Cfb077f321651B735#code
+
+Detyra10: Linku--https://sepolia.etherscan.io/address/0xD11e6c4D84fB1e992C73804BFbDE54593F3246D4#code
